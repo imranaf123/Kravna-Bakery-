@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Kravna Bakery">
+  <rect width="64" height="64" rx="16" fill="#190f0b"/>
+  <rect x="14" y="43" width="36" height="6" rx="2.5" fill="#901817"/>
+  <path d="M14 43 L21 25 L28 34 L32 17 L36 34 L43 25 L50 43 Z" fill="#c99a54"/>
+  <circle cx="32" cy="14.5" r="2" fill="#f5f1ea"/>
+  <circle cx="21" cy="22.5" r="1.7" fill="#f5f1ea"/>
+  <circle cx="43" cy="22.5" r="1.7" fill="#f5f1ea"/>
+</svg>

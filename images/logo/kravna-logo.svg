@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 56" role="img" aria-label="Kravna Bakery">
+  <g>
+    <rect x="0" y="0" width="56" height="56" rx="14" fill="#190f0b"/>
+    <rect x="12.5" y="37" width="31" height="5.5" rx="2.2" fill="#901817"/>
+    <path d="M12.5 37 L18.6 21.6 L24.8 29.4 L28 15.2 L31.2 29.4 L37.4 21.6 L43.5 37 Z" fill="#c99a54"/>
+    <circle cx="28" cy="12.6" r="2.2" fill="#f5f1ea"/>
+    <circle cx="18.6" cy="19.4" r="1.9" fill="#f5f1ea"/>
+    <circle cx="37.4" cy="19.4" r="1.9" fill="#f5f1ea"/>
+    <text x="66" y="35" font-family="Archivo, Arial, sans-serif" font-weight="900" font-size="27" letter-spacing="0.5" fill="#190f0b">KRAVNA</text>
+    <text x="67" y="47" font-family="Archivo, Arial, sans-serif" font-weight="700" font-size="10" letter-spacing="7" fill="#8a7f74">BAKERY</text>
+  </g>
+</svg>
