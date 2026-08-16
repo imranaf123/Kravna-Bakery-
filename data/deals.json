@@ -1,0 +1,89 @@
+[
+  {
+    "id": "deal-birthday",
+    "title": "Birthday Combo",
+    "slug": "birthday-combo",
+    "description": "A 1kg signature cake + 12 cupcakes + candles — everything you need for a birthday.",
+    "image": "images/products/kids-theme-cake.jpg",
+    "includedItems": [
+      "red-velvet-cake",
+      "cupcakes",
+      "candles"
+    ],
+    "price": 4500,
+    "compareAtPrice": 5400,
+    "active": true,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "id": "deal-eid",
+    "title": "Eid Treat Box",
+    "slug": "eid-treat-box",
+    "description": "Assorted mithai box, nankhatai and nimco — a sweet Eid gift for family and friends.",
+    "image": "images/products/assorted-mithai-box.jpg",
+    "includedItems": [
+      "assorted-mithai-box",
+      "nankhatai",
+      "mixed-nimco"
+    ],
+    "price": 3800,
+    "compareAtPrice": 4600,
+    "active": true,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "id": "deal-family",
+    "title": "Family Dessert Box",
+    "slug": "family-dessert-box",
+    "description": "A dessert box with brownies, pastries, cupcakes and donuts to share.",
+    "image": "images/products/dessert-box.jpg",
+    "includedItems": [
+      "dessert-box",
+      "chocolate-brownie",
+      "cupcakes",
+      "donuts"
+    ],
+    "price": 2200,
+    "compareAtPrice": 2700,
+    "active": true,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "id": "deal-weekend",
+    "title": "Weekend Treat Box",
+    "slug": "weekend-treat-box",
+    "description": "A mix of savory patties, samosas, rolls and mini pizzas for the weekend.",
+    "image": "images/products/mini-pizza.jpg",
+    "includedItems": [
+      "chicken-patties",
+      "chicken-samosa",
+      "chicken-rolls",
+      "mini-pizza"
+    ],
+    "price": 1800,
+    "compareAtPrice": 2200,
+    "active": true,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "id": "deal-teatime",
+    "title": "Tea Time Combo",
+    "slug": "tea-time-combo",
+    "description": "Cake rusks, zeera biscuits and nankhatai — the perfect chai-time spread.",
+    "image": "images/products/cake-rusk.jpg",
+    "includedItems": [
+      "cake-rusk",
+      "zeera-biscuits",
+      "nankhatai"
+    ],
+    "price": 1200,
+    "compareAtPrice": 1500,
+    "active": true,
+    "startDate": null,
+    "endDate": null
+  }
+]

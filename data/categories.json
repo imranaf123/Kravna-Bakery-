@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cakes",
+    "name": "Cakes",
+    "slug": "cakes",
+    "parentCategory": null,
+    "image": "images/categories/cakes.jpg",
+    "displayOnHomepage": true,
+    "sortOrder": 1
+  },
+  {
+    "id": "custom-cakes",
+    "name": "Custom Cakes",
+    "slug": "custom-cakes",
+    "parentCategory": null,
+    "image": "images/categories/custom-cakes.jpg",
+    "displayOnHomepage": true,
+    "sortOrder": 2
+  },
+  {
+    "id": "pastries-desserts",
+    "name": "Pastries & Desserts",
+    "slug": "pastries-desserts",
+    "parentCategory": null,
+    "image": "images/categories/pastries-desserts.jpg",
+    "displayOnHomepage": true,
+    "sortOrder": 3
+  },
+  {
+    "id": "biscuits-cookies",
+    "name": "Biscuits & Cookies",
+    "slug": "biscuits-cookies",
+    "parentCategory": null,
+    "image": "images/categories/biscuits-cookies.jpg",
+    "displayOnHomepage": true,
+    "sortOrder": 4
+  },
+  {
+    "id": "breads-buns",
+    "name": "Breads & Buns",
+    "slug": "breads-buns",
+    "parentCategory": null,
+    "image": "images/categories/breads-buns.jpg",
+    "displayOnHomepage": true,
+    "sortOrder": 5
+  },
+  {
+    "id": "savory",
+    "name": "Savory & Namkeen",
+    "slug": "savory",
+    "parentCategory": null,
+    "image": "images/categories/savory.jpg",
+    "displayOnHomepage": true,
+    "sortOrder": 6
+  },
+  {
+    "id": "nimco-snacks",
+    "name": "Nimco & Snacks",
+    "slug": "nimco-snacks",
+    "parentCategory": null,
+    "image": "images/categories/nimco-snacks.jpg",
+    "displayOnHomepage": true,
+    "sortOrder": 7
+  },
+  {
+    "id": "mithai",
+    "name": "Mithai & Sweets",
+    "slug": "mithai",
+    "parentCategory": null,
+    "image": "images/categories/mithai.jpg",
+    "displayOnHomepage": true,
+    "sortOrder": 8
+  },
+  {
+    "id": "desserts",
+    "name": "Desserts",
+    "slug": "desserts",
+    "parentCategory": null,
+    "image": "images/categories/desserts.jpg",
+    "displayOnHomepage": true,
+    "sortOrder": 9
+  },
+  {
+    "id": "rusks",
+    "name": "Rusks",
+    "slug": "rusks",
+    "parentCategory": null,
+    "image": "images/categories/rusks.jpg",
+    "displayOnHomepage": false,
+    "sortOrder": 10
+  },
+  {
+    "id": "extras",
+    "name": "Celebration Extras",
+    "slug": "extras",
+    "parentCategory": null,
+    "image": "images/categories/extras.jpg",
+    "displayOnHomepage": false,
+    "sortOrder": 11
+  },
+  {
+    "id": "cakes-birthday",
+    "name": "Birthday Cakes",
+    "slug": "birthday-cakes",
+    "parentCategory": "cakes",
+    "image": null,
+    "displayOnHomepage": false,
+    "sortOrder": 20
+  },
+  {
+    "id": "cakes-chocolate",
+    "name": "Chocolate Cakes",
+    "slug": "chocolate-cakes",
+    "parentCategory": "cakes",
+    "image": null,
+    "displayOnHomepage": false,
+    "sortOrder": 21
+  },
+  {
+    "id": "cakes-redvelvet",
+    "name": "Red Velvet",
+    "slug": "red-velvet",
+    "parentCategory": "cakes",
+    "image": null,
+    "displayOnHomepage": false,
+    "sortOrder": 22
+  },
+  {
+    "id": "cakes-blackforest",
+    "name": "Black Forest",
+    "slug": "black-forest",
+    "parentCategory": "cakes",
+    "image": null,
+    "displayOnHomepage": false,
+    "sortOrder": 23
+  },
+  {
+    "id": "cakes-biscoff",
+    "name": "Biscoff / Lotus",
+    "slug": "biscoff-lotus",
+    "parentCategory": "cakes",
+    "image": null,
+    "displayOnHomepage": false,
+    "sortOrder": 24
+  },
+  {
+    "id": "cakes-fruit",
+    "name": "Fruit & Fresh",
+    "slug": "fruit-fresh",
+    "parentCategory": "cakes",
+    "image": null,
+    "displayOnHomepage": false,
+    "sortOrder": 25
+  },
+  {
+    "id": "cakes-photo",
+    "name": "Photo Cakes",
+    "slug": "photo-cakes",
+    "parentCategory": "cakes",
+    "image": null,
+    "displayOnHomepage": false,
+    "sortOrder": 26
+  },
+  {
+    "id": "cakes-theme",
+    "name": "Theme & Kids",
+    "slug": "theme-kids",
+    "parentCategory": "cakes",
+    "image": null,
+    "displayOnHomepage": false,
+    "sortOrder": 27
+  },
+  {
+    "id": "cakes-wedding",
+    "name": "Wedding & Anniversary",
+    "slug": "wedding-anniversary",
+    "parentCategory": "cakes",
+    "image": null,
+    "displayOnHomepage": false,
+    "sortOrder": 28
+  }
+]

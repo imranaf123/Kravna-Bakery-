@@ -1,0 +1,182 @@
+{
+  "businessName": "Kravna Bakery",
+  "shortName": "KRAVNA",
+  "tagline": "Cakes, desserts & celebrations",
+  "heroEyebrow": "CAKES • DESSERTS • CELEBRATIONS",
+  "whatsapp": "0313 3801788",
+  "whatsappIntl": "923133801788",
+  "phone": "[ADD PHONE NUMBER]",
+  "email": "[ADD EMAIL]",
+  "address": "[ADD ADDRESS]",
+  "city": "Multan",
+  "openingHours": "Mon – Sun: 8:00 AM – 10:00 PM",
+  "deliveryAreas": [
+    "Multan City",
+    "Cantt",
+    "Bosan Road",
+    "Gulgasht",
+    "Shah Rukn-e-Alam"
+  ],
+  "deliveryFee": 200,
+  "freeDeliveryThreshold": 3000,
+  "socialLinks": {
+    "facebook": "https://facebook.com/kravnabakery",
+    "instagram": "https://instagram.com/kravnabakery",
+    "tiktok": "https://tiktok.com/@kravnabakery"
+  },
+  "currency": {
+    "code": "PKR",
+    "symbol": "Rs.",
+    "thousandSep": ","
+  },
+  "developerCredit": "Designed & Developed by Imran AF",
+  "logo": {
+    "image": "images/logo/kravna-logo.svg",
+    "alt": "Kravna Bakery"
+  },
+  "favicon": "images/logo/kravna-favicon.svg",
+  "heroSettings": {
+    "slides": [
+      {
+        "image": "images/banners/hero-1.jpg",
+        "alt": "Signature chocolate celebration cake",
+        "eyebrow": "CAKES • DESSERTS • CELEBRATIONS",
+        "headline": "MAKE YOUR MOMENT\nSWEETER.",
+        "subtext": "Birthday cakes, custom creations and irresistible treats made for every celebration.",
+        "ctaPrimary": {
+          "label": "ORDER A CAKE",
+          "href": "shop.html?category=cakes"
+        },
+        "ctaSecondary": {
+          "label": "CUSTOM CAKE",
+          "href": "custom-cake.html"
+        }
+      },
+      {
+        "image": "images/banners/hero-2.jpg",
+        "alt": "Birthday cake with glowing candles",
+        "eyebrow": "FRESHLY MADE EVERY DAY",
+        "headline": "EVERY CELEBRATION\nDESERVES KRAVNA.",
+        "subtext": "From a single pastry to a grand wedding cake — baked fresh, delivered on time.",
+        "ctaPrimary": {
+          "label": "ORDER A CAKE",
+          "href": "shop.html?category=cakes"
+        },
+        "ctaSecondary": {
+          "label": "CUSTOM CAKE",
+          "href": "custom-cake.html"
+        }
+      },
+      {
+        "image": "images/banners/hero-3.jpg",
+        "alt": "Spread of fresh bakery treats",
+        "eyebrow": "DELIVERY & PICKUP AVAILABLE",
+        "headline": "BAKED FOR YOUR\nEVERYDAY TOO.",
+        "subtext": "Fresh breads, savory patties, rusks, nimco and mithai — all from one bakery.",
+        "ctaPrimary": {
+          "label": "ORDER A CAKE",
+          "href": "shop.html?category=cakes"
+        },
+        "ctaSecondary": {
+          "label": "CUSTOM CAKE",
+          "href": "custom-cake.html"
+        }
+      }
+    ],
+    "trustBadges": [
+      {
+        "label": "Freshly Made",
+        "icon": "sparkles"
+      },
+      {
+        "label": "Premium Ingredients",
+        "icon": "star"
+      },
+      {
+        "label": "Custom Designs",
+        "icon": "cake"
+      },
+      {
+        "label": "WhatsApp Support",
+        "icon": "chat"
+      }
+    ],
+    "carouselIntervalMs": 6000
+  },
+  "checkoutSettings": {
+    "minimumLeadTimeHours": 3,
+    "deliveryTimeSlots": [
+      "10:00 AM – 12:00 PM",
+      "12:00 PM – 2:00 PM",
+      "2:00 PM – 4:00 PM",
+      "4:00 PM – 6:00 PM",
+      "6:00 PM – 8:00 PM",
+      "8:00 PM – 10:00 PM"
+    ],
+    "storePickupEnabled": true,
+    "pickupNote": "Collect from our bakery. Please bring your order number."
+  },
+  "paymentMethods": [
+    {
+      "id": "cod",
+      "name": "Cash on Delivery",
+      "enabled": true,
+      "note": "Pay in cash when your order arrives."
+    },
+    {
+      "id": "easypaisa",
+      "name": "Easypaisa",
+      "enabled": true,
+      "note": "Send payment to 0313 3801788 and share the confirmation on WhatsApp."
+    },
+    {
+      "id": "jazzcash",
+      "name": "JazzCash",
+      "enabled": true,
+      "note": "Send payment to 0313 3801788 and share the confirmation on WhatsApp."
+    }
+  ],
+  "gallery": [
+    {
+      "image": "images/banners/hero-2.jpg",
+      "caption": "Birthday celebrations"
+    },
+    {
+      "image": "images/products/wedding-cake.jpg",
+      "caption": "Custom wedding cakes"
+    },
+    {
+      "image": "images/products/kids-theme-cake.jpg",
+      "caption": "Kids & theme cakes"
+    },
+    {
+      "image": "images/products/assorted-mithai-box.jpg",
+      "caption": "Eid & mithai"
+    },
+    {
+      "image": "images/products/dessert-box.jpg",
+      "caption": "Dessert boxes"
+    },
+    {
+      "image": "images/banners/hero-3.jpg",
+      "caption": "Fresh bakery products"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ayesha R.",
+      "text": "Ordered a red velvet for my daughter's birthday — it arrived right on time and tasted incredible. The whole family loved it!",
+      "note": "Sample review"
+    },
+    {
+      "name": "Bilal K.",
+      "text": "The custom cake for our anniversary was exactly what I described on WhatsApp. Beautiful work and super easy ordering.",
+      "note": "Sample review"
+    },
+    {
+      "name": "Fatima S.",
+      "text": "Their fresh patties and rusks have become a weekly staple at our house. Always fresh, always on time.",
+      "note": "Sample review"
+    }
+  ]
+}

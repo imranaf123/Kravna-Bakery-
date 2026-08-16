@@ -1,0 +1,4951 @@
+[
+  {
+    "id": "classic-chocolate-cake",
+    "name": "Classic Chocolate Cake",
+    "slug": "classic-chocolate-cake",
+    "category": "cakes",
+    "subcategory": "cakes-chocolate",
+    "description": "Our signature rich chocolate sponge layered with silky chocolate ganache. A crowd favourite for every occasion.",
+    "shortDescription": "Fresh classic chocolate cake, baked daily.",
+    "images": [
+      "images/products/classic-chocolate-cake.jpg"
+    ],
+    "price": 2400,
+    "compareAtPrice": 2800,
+    "discount": 14,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "birthday",
+      "chocolate",
+      "anniversary"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -500,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1450,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 2900,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "red-velvet-cake",
+    "name": "Red Velvet Cake",
+    "slug": "red-velvet-cake",
+    "category": "cakes",
+    "subcategory": "cakes-redvelvet",
+    "description": "Velvety red sponge with cream-cheese frosting — the iconic Kravna bestseller.",
+    "shortDescription": "Fresh red velvet cake, baked daily.",
+    "images": [
+      "images/products/red-velvet-cake.jpg"
+    ],
+    "price": 2800,
+    "compareAtPrice": 3200,
+    "discount": 12,
+    "currency": "PKR",
+    "popular": true,
+    "featured": true,
+    "new": false,
+    "available": true,
+    "tags": [
+      "birthday",
+      "red velvet",
+      "anniversary",
+      "valentine"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -600,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1600,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3200,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chocolate-fudge-cake",
+    "name": "Chocolate Fudge Cake",
+    "slug": "chocolate-fudge-cake",
+    "category": "cakes",
+    "subcategory": "cakes-chocolate",
+    "description": "Dense, gooey chocolate fudge layered with molten chocolate — for true chocolate lovers.",
+    "shortDescription": "Fresh chocolate fudge cake, baked daily.",
+    "images": [
+      "images/products/chocolate-fudge-cake.jpg"
+    ],
+    "price": 3000,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "birthday",
+      "chocolate",
+      "fudge"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -650,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1700,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3400,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "black-forest-cake",
+    "name": "Black Forest Cake",
+    "slug": "black-forest-cake",
+    "category": "cakes",
+    "subcategory": "cakes-blackforest",
+    "description": "Chocolate sponge with whipped cream and cherries, finished with chocolate shavings.",
+    "shortDescription": "Fresh black forest cake, baked daily.",
+    "images": [
+      "images/products/black-forest-cake.jpg"
+    ],
+    "price": 2600,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "birthday",
+      "chocolate",
+      "cherry"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -550,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1500,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3000,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "biscoff-lotus-cake",
+    "name": "Biscoff Lotus Cake",
+    "slug": "biscoff-lotus-cake",
+    "category": "cakes",
+    "subcategory": "cakes-biscoff",
+    "description": "Caramelised Biscoff sponge with Lotus spread and crushed Biscoff topping.",
+    "shortDescription": "Fresh biscoff lotus cake, baked daily.",
+    "images": [
+      "images/products/biscoff-lotus-cake.jpg"
+    ],
+    "price": 3200,
+    "compareAtPrice": 3600,
+    "discount": 11,
+    "currency": "PKR",
+    "popular": false,
+    "featured": true,
+    "new": false,
+    "available": true,
+    "tags": [
+      "birthday",
+      "biscoff",
+      "lotus",
+      "anniversary"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -700,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1800,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3600,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "strawberry-cake",
+    "name": "Strawberry Cake",
+    "slug": "strawberry-cake",
+    "category": "cakes",
+    "subcategory": "cakes-fruit",
+    "description": "Light sponge with fresh strawberry filling and whipped cream.",
+    "shortDescription": "Fresh strawberry cake, baked daily.",
+    "images": [
+      "images/products/strawberry-cake.jpg"
+    ],
+    "price": 2700,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "birthday",
+      "strawberry",
+      "fruit"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -600,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1600,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3200,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "pineapple-cake",
+    "name": "Pineapple Cake",
+    "slug": "pineapple-cake",
+    "category": "cakes",
+    "subcategory": "cakes-fruit",
+    "description": "Classic pineapple sponge with pineapple chunks and cream — a Pakistani favourite.",
+    "shortDescription": "Fresh pineapple cake, baked daily.",
+    "images": [
+      "images/products/strawberry-cake.jpg"
+    ],
+    "price": 2500,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "birthday",
+      "pineapple",
+      "fruit"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -550,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1500,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3000,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "vanilla-fresh-cream-cake",
+    "name": "Vanilla Fresh Cream Cake",
+    "slug": "vanilla-fresh-cream-cake",
+    "category": "cakes",
+    "subcategory": "cakes-fruit",
+    "description": "Soft vanilla sponge with light fresh cream — simple, elegant and delicious.",
+    "shortDescription": "Fresh vanilla fresh cream cake, baked daily.",
+    "images": [
+      "images/products/vanilla-fresh-cream-cake.jpg"
+    ],
+    "price": 2300,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "birthday",
+      "vanilla",
+      "fresh cream"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -500,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1400,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 2800,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "coffee-mocha-cake",
+    "name": "Coffee Mocha Cake",
+    "slug": "coffee-mocha-cake",
+    "category": "cakes",
+    "subcategory": "cakes-chocolate",
+    "description": "Coffee-infused sponge with mocha buttercream — for the coffee lover.",
+    "shortDescription": "Fresh coffee mocha cake, baked daily.",
+    "images": [
+      "images/products/coffee-mocha-cake.jpg"
+    ],
+    "price": 2900,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "coffee",
+      "mocha",
+      "anniversary",
+      "graduation"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -600,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1650,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3300,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "fresh-fruit-cake",
+    "name": "Fresh Fruit Cake",
+    "slug": "fresh-fruit-cake",
+    "category": "cakes",
+    "subcategory": "cakes-fruit",
+    "description": "Topped with seasonal fresh fruits — a lighter, refreshing celebration cake.",
+    "shortDescription": "Fresh fresh fruit cake, baked daily.",
+    "images": [
+      "images/products/fresh-fruit-cake.jpg"
+    ],
+    "price": 3100,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "fruit",
+      "birthday",
+      "anniversary",
+      "graduation"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -650,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1750,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3500,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "photo-cake",
+    "name": "Photo Cake",
+    "slug": "photo-cake",
+    "category": "cakes",
+    "subcategory": "cakes-photo",
+    "description": "Your favourite photo printed on an edible sheet over a fresh cream cake. Share your photo on WhatsApp after ordering.",
+    "shortDescription": "Fresh photo cake, baked daily.",
+    "images": [
+      "images/products/photo-cake.jpg"
+    ],
+    "price": 3500,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": true,
+    "available": true,
+    "tags": [
+      "photo",
+      "custom",
+      "birthday",
+      "anniversary",
+      "graduation"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -750,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1900,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3800,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "photo",
+        "label": "Upload reference photo",
+        "price": 0,
+        "type": "note",
+        "placeholder": "Share your photo on WhatsApp after placing the order."
+      },
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "kids-theme-cake",
+    "name": "Kids Theme Cake",
+    "slug": "kids-theme-cake",
+    "category": "cakes",
+    "subcategory": "cakes-theme",
+    "description": "Custom kids' cakes in any theme or character — tell us the theme and we'll create it.",
+    "shortDescription": "Fresh kids theme cake, baked daily.",
+    "images": [
+      "images/products/kids-theme-cake.jpg"
+    ],
+    "price": 3400,
+    "compareAtPrice": 3800,
+    "discount": 10,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "kids",
+      "theme",
+      "birthday",
+      "baby"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -750,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1900,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3800,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "theme",
+        "label": "Theme",
+        "price": 0,
+        "type": "text",
+        "placeholder": "e.g. Spiderman, Frozen, Paw Patrol"
+      },
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "wedding-cake",
+    "name": "Wedding Cake",
+    "slug": "wedding-cake",
+    "category": "cakes",
+    "subcategory": "cakes-wedding",
+    "description": "Elegant multi-tier wedding cakes, customised to your theme and guest count.",
+    "shortDescription": "Fresh wedding cake, baked daily.",
+    "images": [
+      "images/products/wedding-cake.jpg"
+    ],
+    "price": 7500,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": true,
+    "new": false,
+    "available": true,
+    "tags": [
+      "wedding",
+      "anniversary",
+      "custom"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -1500,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 6000,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 9500,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "mango-cake",
+    "name": "Seasonal Mango Cake",
+    "slug": "mango-cake",
+    "category": "cakes",
+    "subcategory": "cakes-fruit",
+    "description": "Fresh mango sponge with mango cream — available while mangoes are in season.",
+    "shortDescription": "Fresh seasonal mango cake, baked daily.",
+    "images": [
+      "images/products/strawberry-cake.jpg"
+    ],
+    "price": 2900,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": true,
+    "available": true,
+    "tags": [
+      "seasonal",
+      "mango",
+      "fruit"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "0.5 kg",
+            "priceModifier": -600,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "2 kg",
+            "priceModifier": 1650,
+            "stock": null
+          },
+          {
+            "label": "3 kg",
+            "priceModifier": 3300,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "id": "msg",
+        "label": "Cake message",
+        "price": 0,
+        "type": "text",
+        "placeholder": "Write your message (e.g. Happy Birthday Ayesha!)"
+      },
+      {
+        "id": "candles",
+        "label": "Birthday candles",
+        "price": 50,
+        "type": "toggle"
+      },
+      {
+        "id": "knife",
+        "label": "Cake knife",
+        "price": 150,
+        "type": "toggle"
+      },
+      {
+        "id": "topper",
+        "label": "Cake topper",
+        "price": 300,
+        "type": "toggle"
+      }
+    ],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "dry-fruit-cake",
+    "name": "Dry Fruit Cake",
+    "slug": "dry-fruit-cake",
+    "category": "cakes",
+    "subcategory": "cakes-birthday",
+    "description": "A rich dry cake loaded with almonds, cashews and raisins — perfect with tea.",
+    "shortDescription": "Fresh dry fruit cake, baked daily.",
+    "images": [
+      "images/products/classic-chocolate-cake.jpg"
+    ],
+    "price": 1800,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "dry",
+      "tea",
+      "fruit"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -450,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 1300,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chocolate-pastry",
+    "name": "Chocolate Pastry",
+    "slug": "chocolate-pastry",
+    "category": "pastries-desserts",
+    "subcategory": null,
+    "description": "A single slice of rich chocolate cake layered with ganache.",
+    "shortDescription": "Fresh chocolate pastry, baked daily.",
+    "images": [
+      "images/products/chocolate-pastry.jpg"
+    ],
+    "price": 350,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "pastry",
+      "chocolate"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "fresh-cream-pastry",
+    "name": "Fresh Cream Pastry",
+    "slug": "fresh-cream-pastry",
+    "category": "pastries-desserts",
+    "subcategory": null,
+    "description": "Light sponge pastry with fresh cream.",
+    "shortDescription": "Fresh fresh cream pastry, baked daily.",
+    "images": [
+      "images/products/chocolate-pastry.jpg"
+    ],
+    "price": 320,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "pastry",
+      "fresh cream"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "pineapple-pastry",
+    "name": "Pineapple Pastry",
+    "slug": "pineapple-pastry",
+    "category": "pastries-desserts",
+    "subcategory": null,
+    "description": "Pineapple pastry with juicy pineapple pieces.",
+    "shortDescription": "Fresh pineapple pastry, baked daily.",
+    "images": [
+      "images/products/chocolate-pastry.jpg"
+    ],
+    "price": 300,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "pastry",
+      "pineapple"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "strawberry-pastry",
+    "name": "Strawberry Pastry",
+    "slug": "strawberry-pastry",
+    "category": "pastries-desserts",
+    "subcategory": null,
+    "description": "Strawberry pastry with fresh strawberry cream.",
+    "shortDescription": "Fresh strawberry pastry, baked daily.",
+    "images": [
+      "images/products/chocolate-pastry.jpg"
+    ],
+    "price": 350,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "pastry",
+      "strawberry"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "cake-slice",
+    "name": "Cake Slice",
+    "slug": "cake-slice",
+    "category": "pastries-desserts",
+    "subcategory": null,
+    "description": "A generous slice of our signature cakes, boxed to go.",
+    "shortDescription": "Fresh cake slice, baked daily.",
+    "images": [
+      "images/products/chocolate-pastry.jpg"
+    ],
+    "price": 450,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "slice",
+      "cake"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chocolate-brownie",
+    "name": "Chocolate Brownie",
+    "slug": "chocolate-brownie",
+    "category": "pastries-desserts",
+    "subcategory": null,
+    "description": "Fudgy, dense chocolate brownie baked daily.",
+    "shortDescription": "Fresh chocolate brownie, baked daily.",
+    "images": [
+      "images/products/chocolate-brownie.jpg"
+    ],
+    "price": 250,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "brownie",
+      "chocolate"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -150,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 500,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "cupcakes",
+    "name": "Cupcakes",
+    "slug": "cupcakes",
+    "category": "pastries-desserts",
+    "subcategory": null,
+    "description": "Soft cupcakes with swirled frosting, in chocolate, vanilla or red velvet.",
+    "shortDescription": "Fresh cupcakes, baked daily.",
+    "images": [
+      "images/products/cupcakes.jpg"
+    ],
+    "price": 150,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": true,
+    "new": false,
+    "available": true,
+    "tags": [
+      "cupcake",
+      "birthday"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -100,
+            "stock": null
+          },
+          {
+            "label": "4 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 120,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 700,
+            "stock": null
+          }
+        ]
+      },
+      {
+        "variantType": "Flavor",
+        "options": [
+          {
+            "label": "Chocolate",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "Vanilla",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "Red Velvet",
+            "priceModifier": 50,
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "muffins",
+    "name": "Muffins",
+    "slug": "muffins",
+    "category": "pastries-desserts",
+    "subcategory": null,
+    "description": "Freshly baked muffins — soft and fluffy.",
+    "shortDescription": "Fresh muffins, baked daily.",
+    "images": [
+      "images/products/cream-rolls.jpg"
+    ],
+    "price": 180,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "muffin"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -120,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 300,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "cream-rolls",
+    "name": "Cream Rolls",
+    "slug": "cream-rolls",
+    "category": "pastries-desserts",
+    "subcategory": null,
+    "description": "Crisp rolls filled with sweet cream.",
+    "shortDescription": "Fresh cream rolls, baked daily.",
+    "images": [
+      "images/products/cream-rolls.jpg"
+    ],
+    "price": 120,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "cream roll"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -80,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 200,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "donuts",
+    "name": "Donuts",
+    "slug": "donuts",
+    "category": "pastries-desserts",
+    "subcategory": null,
+    "description": "Soft glazed donuts, fried fresh daily.",
+    "shortDescription": "Fresh donuts, baked daily.",
+    "images": [
+      "images/products/donuts.jpg"
+    ],
+    "price": 180,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "donut"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -120,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 320,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "dessert-cup",
+    "name": "Dessert Cup",
+    "slug": "dessert-cup",
+    "category": "pastries-desserts",
+    "subcategory": "desserts",
+    "description": "Layered dessert cups — cake, cream and toppings in a cup.",
+    "shortDescription": "Fresh dessert cup, baked daily.",
+    "images": [
+      "images/products/dessert-cup.jpg"
+    ],
+    "price": 380,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "dessert",
+      "cup"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "dessert-box",
+    "name": "Dessert Box",
+    "slug": "dessert-box",
+    "category": "pastries-desserts",
+    "subcategory": "desserts",
+    "description": "An assortment of brownies, pastries, cupcakes and donuts in one box.",
+    "shortDescription": "Fresh dessert box, baked daily.",
+    "images": [
+      "images/products/dessert-box.jpg"
+    ],
+    "price": 1200,
+    "compareAtPrice": 1500,
+    "discount": 20,
+    "currency": "PKR",
+    "popular": false,
+    "featured": true,
+    "new": false,
+    "available": true,
+    "tags": [
+      "dessert",
+      "box",
+      "gift"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "trifle",
+    "name": "Trifle",
+    "slug": "trifle",
+    "category": "pastries-desserts",
+    "subcategory": "desserts",
+    "description": "Layers of cake, custard, jelly and cream — a classic trifle.",
+    "shortDescription": "Fresh trifle, baked daily.",
+    "images": [
+      "images/products/trifle.jpg"
+    ],
+    "price": 550,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "trifle",
+      "dessert"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "pudding",
+    "name": "Pudding",
+    "slug": "pudding",
+    "category": "pastries-desserts",
+    "subcategory": "desserts",
+    "description": "Silky, creamy pudding made fresh.",
+    "shortDescription": "Fresh pudding, baked daily.",
+    "images": [
+      "images/products/dessert-cup.jpg"
+    ],
+    "price": 250,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "pudding",
+      "dessert"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chocolate-chip-cookies",
+    "name": "Chocolate Chip Cookies",
+    "slug": "chocolate-chip-cookies",
+    "category": "biscuits-cookies",
+    "subcategory": null,
+    "description": "Chewy cookies loaded with chocolate chips.",
+    "shortDescription": "Fresh chocolate chip cookies, baked daily.",
+    "images": [
+      "images/products/chocolate-chip-cookies.jpg"
+    ],
+    "price": 350,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "cookies",
+      "chocolate"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -120,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 500,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "coconut-biscuits",
+    "name": "Coconut Biscuits",
+    "slug": "coconut-biscuits",
+    "category": "biscuits-cookies",
+    "subcategory": null,
+    "description": "Crisp biscuits with desiccated coconut.",
+    "shortDescription": "Fresh coconut biscuits, baked daily.",
+    "images": [
+      "images/products/assorted-biscuits.jpg"
+    ],
+    "price": 300,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "coconut",
+      "biscuits"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -100,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 450,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "zeera-biscuits",
+    "name": "Zeera Biscuits",
+    "slug": "zeera-biscuits",
+    "category": "biscuits-cookies",
+    "subcategory": null,
+    "description": "Classic cumin (zeera) biscuits — a tea-time staple.",
+    "shortDescription": "Fresh zeera biscuits, baked daily.",
+    "images": [
+      "images/products/assorted-biscuits.jpg"
+    ],
+    "price": 250,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "zeera",
+      "biscuits",
+      "tea"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -80,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 380,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "peanut-biscuits",
+    "name": "Peanut Biscuits",
+    "slug": "peanut-biscuits",
+    "category": "biscuits-cookies",
+    "subcategory": null,
+    "description": "Crunchy biscuits with roasted peanuts.",
+    "shortDescription": "Fresh peanut biscuits, baked daily.",
+    "images": [
+      "images/products/assorted-biscuits.jpg"
+    ],
+    "price": 320,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "peanut",
+      "biscuits"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -100,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 480,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "jam-biscuits",
+    "name": "Jam Biscuits",
+    "slug": "jam-biscuits",
+    "category": "biscuits-cookies",
+    "subcategory": null,
+    "description": "Buttery biscuits with a sweet jam centre.",
+    "shortDescription": "Fresh jam biscuits, baked daily.",
+    "images": [
+      "images/products/assorted-biscuits.jpg"
+    ],
+    "price": 300,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "jam",
+      "biscuits"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -100,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 450,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "almond-badam-biscuits",
+    "name": "Almond (Badam) Biscuits",
+    "slug": "almond-badam-biscuits",
+    "category": "biscuits-cookies",
+    "subcategory": null,
+    "description": "Premium biscuits topped with roasted almonds.",
+    "shortDescription": "Fresh almond (badam) biscuits, baked daily.",
+    "images": [
+      "images/products/assorted-biscuits.jpg"
+    ],
+    "price": 450,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "almond",
+      "badam",
+      "biscuits"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -150,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 650,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "nankhatai",
+    "name": "Nankhatai",
+    "slug": "nankhatai",
+    "category": "biscuits-cookies",
+    "subcategory": null,
+    "description": "Traditional soft nankhatai, baked the classic way.",
+    "shortDescription": "Fresh nankhatai, baked daily.",
+    "images": [
+      "images/products/nankhatai.jpg"
+    ],
+    "price": 400,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nankhatai",
+      "traditional",
+      "tea"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -130,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 600,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "khatai",
+    "name": "Khatai",
+    "slug": "khatai",
+    "category": "biscuits-cookies",
+    "subcategory": null,
+    "description": "Crumbly traditional khatai with a melt-in-the-mouth texture.",
+    "shortDescription": "Fresh khatai, baked daily.",
+    "images": [
+      "images/products/nankhatai.jpg"
+    ],
+    "price": 380,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "khatai",
+      "traditional"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -130,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 550,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "sugar-free-biscuits",
+    "name": "Sugar-Free Biscuits",
+    "slug": "sugar-free-biscuits",
+    "category": "biscuits-cookies",
+    "subcategory": null,
+    "description": "Guilt-free sugar-free biscuits, sweetened naturally.",
+    "shortDescription": "Fresh sugar-free biscuits, baked daily.",
+    "images": [
+      "images/products/assorted-biscuits.jpg"
+    ],
+    "price": 500,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "sugar-free",
+      "diet"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -170,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 750,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "assorted-biscuit-box",
+    "name": "Assorted Biscuit Box",
+    "slug": "assorted-biscuit-box",
+    "category": "biscuits-cookies",
+    "subcategory": null,
+    "description": "A box of assorted biscuits — great for gifting or guests.",
+    "shortDescription": "Fresh assorted biscuit box, baked daily.",
+    "images": [
+      "images/products/assorted-biscuits.jpg"
+    ],
+    "price": 950,
+    "compareAtPrice": 1100,
+    "discount": 13,
+    "currency": "PKR",
+    "popular": false,
+    "featured": true,
+    "new": false,
+    "available": true,
+    "tags": [
+      "assorted",
+      "box",
+      "gift"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "plain-bread",
+    "name": "Plain Bread",
+    "slug": "plain-bread",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Soft, fresh plain bread baked daily.",
+    "shortDescription": "Fresh plain bread, baked daily.",
+    "images": [
+      "images/products/milk-bread.jpg"
+    ],
+    "price": 180,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "bread"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "milk-bread",
+    "name": "Milk Bread",
+    "slug": "milk-bread",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Soft and rich milk bread.",
+    "shortDescription": "Fresh milk bread, baked daily.",
+    "images": [
+      "images/products/milk-bread.jpg"
+    ],
+    "price": 220,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "bread",
+      "milk"
+    ],
+    "variants": [
+      {
+        "variantType": "Size",
+        "options": [
+          {
+            "label": "Regular",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "Large",
+            "priceModifier": 60,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "bran-bread",
+    "name": "Bran Bread",
+    "slug": "bran-bread",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Wholesome bran bread, high in fibre.",
+    "shortDescription": "Fresh bran bread, baked daily.",
+    "images": [
+      "images/products/milk-bread.jpg"
+    ],
+    "price": 200,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "bread",
+      "bran",
+      "healthy"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "whole-wheat-bread",
+    "name": "Whole Wheat Bread",
+    "slug": "whole-wheat-bread",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "100% whole wheat bread for a healthier choice.",
+    "shortDescription": "Fresh whole wheat bread, baked daily.",
+    "images": [
+      "images/products/milk-bread.jpg"
+    ],
+    "price": 210,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "bread",
+      "whole wheat",
+      "healthy"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "burger-buns",
+    "name": "Burger Buns",
+    "slug": "burger-buns",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Soft burger buns, perfect for homemade burgers.",
+    "shortDescription": "Fresh burger buns, baked daily.",
+    "images": [
+      "images/products/burger-buns.jpg"
+    ],
+    "price": 250,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "buns",
+      "burger"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -100,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 150,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "dinner-buns",
+    "name": "Dinner Buns",
+    "slug": "dinner-buns",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Soft dinner rolls for the table.",
+    "shortDescription": "Fresh dinner buns, baked daily.",
+    "images": [
+      "images/products/burger-buns.jpg"
+    ],
+    "price": 180,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "buns",
+      "dinner"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -80,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 120,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "plain-buns",
+    "name": "Plain Buns",
+    "slug": "plain-buns",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Fresh plain buns, baked daily.",
+    "shortDescription": "Fresh plain buns, baked daily.",
+    "images": [
+      "images/products/burger-buns.jpg"
+    ],
+    "price": 150,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "buns",
+      "plain"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -70,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 100,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "cream-buns",
+    "name": "Cream Buns",
+    "slug": "cream-buns",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Soft buns filled with sweet cream.",
+    "shortDescription": "Fresh cream buns, baked daily.",
+    "images": [
+      "images/products/cream-rolls.jpg"
+    ],
+    "price": 120,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "buns",
+      "cream",
+      "sweet"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -60,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 80,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "sweet-buns",
+    "name": "Sweet Buns",
+    "slug": "sweet-buns",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Lightly sweet buns, a nostalgic favourite.",
+    "shortDescription": "Fresh sweet buns, baked daily.",
+    "images": [
+      "images/products/cream-rolls.jpg"
+    ],
+    "price": 130,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "buns",
+      "sweet"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -60,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 90,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "phool-buns",
+    "name": "Phool Buns",
+    "slug": "phool-buns",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Flower-shaped phool buns, soft and fluffy.",
+    "shortDescription": "Fresh phool buns, baked daily.",
+    "images": [
+      "images/products/burger-buns.jpg"
+    ],
+    "price": 140,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "buns",
+      "phool"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -60,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 90,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "sheermal",
+    "name": "Sheermal",
+    "slug": "sheermal",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Traditional saffron-flavoured sheermal, mildly sweet.",
+    "shortDescription": "Fresh sheermal, baked daily.",
+    "images": [
+      "images/products/sheermal.jpg"
+    ],
+    "price": 120,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": true,
+    "new": false,
+    "available": true,
+    "tags": [
+      "sheermal",
+      "traditional"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -50,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 80,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "bakarkhani",
+    "name": "Bakarkhani",
+    "slug": "bakarkhani",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Flaky, crisp bakarkhani — a classic tea-time bread.",
+    "shortDescription": "Fresh bakarkhani, baked daily.",
+    "images": [
+      "images/products/sheermal.jpg"
+    ],
+    "price": 100,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "bakarkhani",
+      "traditional"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -40,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 70,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "bread-sticks",
+    "name": "Bread Sticks",
+    "slug": "bread-sticks",
+    "category": "breads-buns",
+    "subcategory": null,
+    "description": "Crunchy bread sticks, great for dipping.",
+    "shortDescription": "Fresh bread sticks, baked daily.",
+    "images": [
+      "images/products/milk-bread.jpg"
+    ],
+    "price": 200,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "bread",
+      "sticks"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -90,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 140,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "cake-rusk",
+    "name": "Cake Rusk",
+    "slug": "cake-rusk",
+    "category": "rusks",
+    "subcategory": null,
+    "description": "Sweet, crunchy cake rusk — the classic chai companion.",
+    "shortDescription": "Fresh cake rusk, baked daily.",
+    "images": [
+      "images/products/cake-rusk.jpg"
+    ],
+    "price": 350,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "rusk",
+      "tea"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -120,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 500,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "plain-rusk",
+    "name": "Plain Rusk",
+    "slug": "plain-rusk",
+    "category": "rusks",
+    "subcategory": null,
+    "description": "Crisp plain rusks, twice-baked for crunch.",
+    "shortDescription": "Fresh plain rusk, baked daily.",
+    "images": [
+      "images/products/cake-rusk.jpg"
+    ],
+    "price": 300,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "rusk",
+      "tea"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -100,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 450,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "round-rusk",
+    "name": "Round Rusk",
+    "slug": "round-rusk",
+    "category": "rusks",
+    "subcategory": null,
+    "description": "Round-shaped rusks with a light sweetness.",
+    "shortDescription": "Fresh round rusk, baked daily.",
+    "images": [
+      "images/products/cake-rusk.jpg"
+    ],
+    "price": 320,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "rusk",
+      "tea"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -110,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 460,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "stick-rusk",
+    "name": "Stick Rusk",
+    "slug": "stick-rusk",
+    "category": "rusks",
+    "subcategory": null,
+    "description": "Long stick rusks, easy to dunk in chai.",
+    "shortDescription": "Fresh stick rusk, baked daily.",
+    "images": [
+      "images/products/cake-rusk.jpg"
+    ],
+    "price": 320,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "rusk",
+      "tea"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -110,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 460,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "coconut-rusk",
+    "name": "Coconut Rusk",
+    "slug": "coconut-rusk",
+    "category": "rusks",
+    "subcategory": null,
+    "description": "Rusks with desiccated coconut.",
+    "shortDescription": "Fresh coconut rusk, baked daily.",
+    "images": [
+      "images/products/cake-rusk.jpg"
+    ],
+    "price": 380,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "rusk",
+      "coconut"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -130,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 540,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "suji-rusk",
+    "name": "Suji Rusk",
+    "slug": "suji-rusk",
+    "category": "rusks",
+    "subcategory": null,
+    "description": "Suji (semolina) rusks with a distinct texture.",
+    "shortDescription": "Fresh suji rusk, baked daily.",
+    "images": [
+      "images/products/cake-rusk.jpg"
+    ],
+    "price": 350,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "rusk",
+      "suji"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -120,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 500,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "candy-rusk",
+    "name": "Candy Rusk",
+    "slug": "candy-rusk",
+    "category": "rusks",
+    "subcategory": null,
+    "description": "Colourful candy rusks, loved by kids.",
+    "shortDescription": "Fresh candy rusk, baked daily.",
+    "images": [
+      "images/products/cake-rusk.jpg"
+    ],
+    "price": 360,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "rusk",
+      "candy"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -120,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 520,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "garlic-rusk",
+    "name": "Garlic Rusk",
+    "slug": "garlic-rusk",
+    "category": "rusks",
+    "subcategory": null,
+    "description": "Savory garlic rusks with a buttery crunch.",
+    "shortDescription": "Fresh garlic rusk, baked daily.",
+    "images": [
+      "images/products/cake-rusk.jpg"
+    ],
+    "price": 380,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "rusk",
+      "garlic",
+      "savory"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -130,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 540,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "sugar-free-rusk",
+    "name": "Sugar-Free Rusk",
+    "slug": "sugar-free-rusk",
+    "category": "rusks",
+    "subcategory": null,
+    "description": "Sugar-free rusks for a healthier tea time.",
+    "shortDescription": "Fresh sugar-free rusk, baked daily.",
+    "images": [
+      "images/products/cake-rusk.jpg"
+    ],
+    "price": 450,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "rusk",
+      "sugar-free",
+      "diet"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -150,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 650,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chicken-patties",
+    "name": "Chicken Patties",
+    "slug": "chicken-patties",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Flaky pastry filled with spiced chicken.",
+    "shortDescription": "Fresh chicken patties, baked daily.",
+    "images": [
+      "images/products/chicken-patties.jpg"
+    ],
+    "price": 80,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "patties",
+      "chicken"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -50,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 140,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "vegetable-patties",
+    "name": "Vegetable Patties",
+    "slug": "vegetable-patties",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Crisp patties filled with seasoned vegetables.",
+    "shortDescription": "Fresh vegetable patties, baked daily.",
+    "images": [
+      "images/products/chicken-patties.jpg"
+    ],
+    "price": 60,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "patties",
+      "vegetable"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -40,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 100,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chicken-cheese-patties",
+    "name": "Chicken Cheese Patties",
+    "slug": "chicken-cheese-patties",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Chicken patties with a gooey cheese centre.",
+    "shortDescription": "Fresh chicken cheese patties, baked daily.",
+    "images": [
+      "images/products/chicken-patties.jpg"
+    ],
+    "price": 100,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "patties",
+      "chicken",
+      "cheese"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -60,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 160,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chicken-bread",
+    "name": "Chicken Bread",
+    "slug": "chicken-bread",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Soft bread roll stuffed with a chicken filling.",
+    "shortDescription": "Fresh chicken bread, baked daily.",
+    "images": [
+      "images/products/chicken-rolls.jpg"
+    ],
+    "price": 350,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "chicken",
+      "bread"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chicken-rolls",
+    "name": "Chicken Rolls",
+    "slug": "chicken-rolls",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Golden fried rolls with a savoury chicken filling.",
+    "shortDescription": "Fresh chicken rolls, baked daily.",
+    "images": [
+      "images/products/chicken-rolls.jpg"
+    ],
+    "price": 150,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "chicken",
+      "roll"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -90,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 240,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "spring-rolls",
+    "name": "Spring Rolls",
+    "slug": "spring-rolls",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Crispy vegetable spring rolls.",
+    "shortDescription": "Fresh spring rolls, baked daily.",
+    "images": [
+      "images/products/chicken-rolls.jpg"
+    ],
+    "price": 120,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "spring",
+      "roll"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -70,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 190,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chicken-samosa",
+    "name": "Chicken Samosa",
+    "slug": "chicken-samosa",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Crisp samosas with a spicy chicken filling.",
+    "shortDescription": "Fresh chicken samosa, baked daily.",
+    "images": [
+      "images/products/samosa.jpg"
+    ],
+    "price": 60,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "samosa",
+      "chicken"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -40,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 100,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "aloo-samosa",
+    "name": "Aloo Samosa",
+    "slug": "aloo-samosa",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Classic potato (aloo) samosas.",
+    "shortDescription": "Fresh aloo samosa, baked daily.",
+    "images": [
+      "images/products/samosa.jpg"
+    ],
+    "price": 40,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "samosa",
+      "aloo"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -30,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 70,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chicken-pie",
+    "name": "Chicken Pie",
+    "slug": "chicken-pie",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Hearty chicken pie with a buttery crust.",
+    "shortDescription": "Fresh chicken pie, baked daily.",
+    "images": [
+      "images/products/chicken-patties.jpg"
+    ],
+    "price": 300,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "pie",
+      "chicken"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "cheese-rolls",
+    "name": "Cheese Rolls",
+    "slug": "cheese-rolls",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Crisp rolls with a melting cheese filling.",
+    "shortDescription": "Fresh cheese rolls, baked daily.",
+    "images": [
+      "images/products/chicken-rolls.jpg"
+    ],
+    "price": 140,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "cheese",
+      "roll"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -90,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 220,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "mini-pizza",
+    "name": "Mini Pizza",
+    "slug": "mini-pizza",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Bite-sized pizzas with cheese and toppings.",
+    "shortDescription": "Fresh mini pizza, baked daily.",
+    "images": [
+      "images/products/mini-pizza.jpg"
+    ],
+    "price": 250,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "pizza"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -150,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 400,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "pizza-slice",
+    "name": "Pizza Slice",
+    "slug": "pizza-slice",
+    "category": "savory",
+    "subcategory": null,
+    "description": "A generous slice of fresh pizza.",
+    "shortDescription": "Fresh pizza slice, baked daily.",
+    "images": [
+      "images/products/mini-pizza.jpg"
+    ],
+    "price": 280,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "pizza",
+      "slice"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "sandwich",
+    "name": "Sandwich",
+    "slug": "sandwich",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Freshly made sandwiches with your choice of filling.",
+    "shortDescription": "Fresh sandwich, baked daily.",
+    "images": [
+      "images/products/mini-pizza.jpg"
+    ],
+    "price": 350,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "sandwich"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "shami-kebab",
+    "name": "Shami Kebab",
+    "slug": "shami-kebab",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Tender shami kebabs, ready to enjoy.",
+    "shortDescription": "Fresh shami kebab, baked daily.",
+    "images": [
+      "images/products/chicken-patties.jpg"
+    ],
+    "price": 400,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "kebab"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chicken-turnover",
+    "name": "Chicken Turnover",
+    "slug": "chicken-turnover",
+    "category": "savory",
+    "subcategory": null,
+    "description": "Flaky turnovers with a savoury chicken filling.",
+    "shortDescription": "Fresh chicken turnover, baked daily.",
+    "images": [
+      "images/products/chicken-patties.jpg"
+    ],
+    "price": 150,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "savory",
+      "turnover",
+      "chicken"
+    ],
+    "variants": [
+      {
+        "variantType": "Pack size",
+        "options": [
+          {
+            "label": "1 piece",
+            "priceModifier": -90,
+            "stock": null
+          },
+          {
+            "label": "6 pieces",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "12 pieces",
+            "priceModifier": 240,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "mixed-nimco",
+    "name": "Mixed Nimco",
+    "slug": "mixed-nimco",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "A crunchy mix of assorted nimco.",
+    "shortDescription": "Fresh mixed nimco, baked daily.",
+    "images": [
+      "images/products/mixed-nimco.jpg"
+    ],
+    "price": 350,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "snacks"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -120,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 500,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "special-nimco",
+    "name": "Special Nimco",
+    "slug": "special-nimco",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "Our premium special nimco mix.",
+    "shortDescription": "Fresh special nimco, baked daily.",
+    "images": [
+      "images/products/mixed-nimco.jpg"
+    ],
+    "price": 420,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "snacks"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -140,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 600,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "daal-mong",
+    "name": "Daal Mong",
+    "slug": "daal-mong",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "Crispy roasted daal mong.",
+    "shortDescription": "Fresh daal mong, baked daily.",
+    "images": [
+      "images/products/daal-mong.jpg"
+    ],
+    "price": 280,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "daal mong"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -100,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 400,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "daal-moth",
+    "name": "Daal Moth",
+    "slug": "daal-moth",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "Crunchy spiced daal moth.",
+    "shortDescription": "Fresh daal moth, baked daily.",
+    "images": [
+      "images/products/daal-mong.jpg"
+    ],
+    "price": 300,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "daal moth"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -100,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 420,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "namak-para",
+    "name": "Namak Para",
+    "slug": "namak-para",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "Crisp, salty namak para.",
+    "shortDescription": "Fresh namak para, baked daily.",
+    "images": [
+      "images/products/mixed-nimco.jpg"
+    ],
+    "price": 260,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "namak para"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -90,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 380,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "masala-papri",
+    "name": "Masala Papri",
+    "slug": "masala-papri",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "Crunchy masala papri.",
+    "shortDescription": "Fresh masala papri, baked daily.",
+    "images": [
+      "images/products/mixed-nimco.jpg"
+    ],
+    "price": 280,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "papri"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -100,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 400,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chat-papri",
+    "name": "Chat Papri",
+    "slug": "chat-papri",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "Tangy chaat papri.",
+    "shortDescription": "Fresh chat papri, baked daily.",
+    "images": [
+      "images/products/mixed-nimco.jpg"
+    ],
+    "price": 290,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "papri",
+      "chaat"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -100,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 420,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chewra",
+    "name": "Chewra",
+    "slug": "chewra",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "Crunchy spiced chewra.",
+    "shortDescription": "Fresh chewra, baked daily.",
+    "images": [
+      "images/products/mixed-nimco.jpg"
+    ],
+    "price": 250,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "chewra"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -90,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 360,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "potato-crisps",
+    "name": "Potato Crisps",
+    "slug": "potato-crisps",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "Thin, crispy potato crisps.",
+    "shortDescription": "Fresh potato crisps, baked daily.",
+    "images": [
+      "images/products/mixed-nimco.jpg"
+    ],
+    "price": 150,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "potato",
+      "crisps"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "potato-sticks",
+    "name": "Potato Sticks",
+    "slug": "potato-sticks",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "Crunchy potato sticks.",
+    "shortDescription": "Fresh potato sticks, baked daily.",
+    "images": [
+      "images/products/mixed-nimco.jpg"
+    ],
+    "price": 160,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "potato",
+      "sticks"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "spicy-peanuts",
+    "name": "Spicy Peanuts",
+    "slug": "spicy-peanuts",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "Roasted peanuts with a spicy kick.",
+    "shortDescription": "Fresh spicy peanuts, baked daily.",
+    "images": [
+      "images/products/daal-mong.jpg"
+    ],
+    "price": 220,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "peanuts",
+      "spicy"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -80,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 320,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "snack-mix",
+    "name": "Snack Mix",
+    "slug": "snack-mix",
+    "category": "nimco-snacks",
+    "subcategory": null,
+    "description": "A party-ready mix of our best snacks.",
+    "shortDescription": "Fresh snack mix, baked daily.",
+    "images": [
+      "images/products/mixed-nimco.jpg"
+    ],
+    "price": 320,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "nimco",
+      "mix"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -110,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 460,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "gulab-jamun",
+    "name": "Gulab Jamun",
+    "slug": "gulab-jamun",
+    "category": "mithai",
+    "subcategory": null,
+    "description": "Soft gulab jamun soaked in fragrant syrup.",
+    "shortDescription": "Fresh gulab jamun, baked daily.",
+    "images": [
+      "images/products/gulab-jamun.jpg"
+    ],
+    "price": 550,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": true,
+    "new": false,
+    "available": true,
+    "tags": [
+      "mithai",
+      "gulab jamun",
+      "traditional",
+      "eid"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -180,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 800,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "barfi",
+    "name": "Barfi",
+    "slug": "barfi",
+    "category": "mithai",
+    "subcategory": null,
+    "description": "Classic milk barfi with a rich, creamy texture.",
+    "shortDescription": "Fresh barfi, baked daily.",
+    "images": [
+      "images/products/barfi.jpg"
+    ],
+    "price": 600,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "mithai",
+      "barfi",
+      "traditional",
+      "eid"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -200,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 850,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "laddu",
+    "name": "Laddu",
+    "slug": "laddu",
+    "category": "mithai",
+    "subcategory": null,
+    "description": "Sweet, crumbly besan laddus.",
+    "shortDescription": "Fresh laddu, baked daily.",
+    "images": [
+      "images/products/barfi.jpg"
+    ],
+    "price": 580,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "mithai",
+      "laddu",
+      "traditional",
+      "eid"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -190,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 820,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "rasgulla",
+    "name": "Rasgulla",
+    "slug": "rasgulla",
+    "category": "mithai",
+    "subcategory": null,
+    "description": "Soft, spongy rasgullas in light syrup.",
+    "shortDescription": "Fresh rasgulla, baked daily.",
+    "images": [
+      "images/products/gulab-jamun.jpg"
+    ],
+    "price": 600,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "mithai",
+      "rasgulla",
+      "traditional",
+      "eid"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -200,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 850,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "jalebi",
+    "name": "Jalebi",
+    "slug": "jalebi",
+    "category": "mithai",
+    "subcategory": null,
+    "description": "Crispy, syrupy jalebis, freshly fried.",
+    "shortDescription": "Fresh jalebi, baked daily.",
+    "images": [
+      "images/products/barfi.jpg"
+    ],
+    "price": 450,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "mithai",
+      "jalebi",
+      "traditional",
+      "eid"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -150,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 650,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "rabri",
+    "name": "Rabri",
+    "slug": "rabri",
+    "category": "mithai",
+    "subcategory": null,
+    "description": "Thick, creamy rabri with a rich milk flavour.",
+    "shortDescription": "Fresh rabri, baked daily.",
+    "images": [
+      "images/products/gajar-halwa.jpg"
+    ],
+    "price": 700,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "mithai",
+      "rabri",
+      "traditional",
+      "eid"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "gajar-halwa",
+    "name": "Gajar Halwa",
+    "slug": "gajar-halwa",
+    "category": "mithai",
+    "subcategory": null,
+    "description": "Warm carrot halwa made with desi ghee and dry fruits.",
+    "shortDescription": "Fresh gajar halwa, baked daily.",
+    "images": [
+      "images/products/gajar-halwa.jpg"
+    ],
+    "price": 650,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": true,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "mithai",
+      "halwa",
+      "gajar",
+      "traditional",
+      "seasonal",
+      "eid"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -220,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 900,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "suji-halwa",
+    "name": "Suji Halwa",
+    "slug": "suji-halwa",
+    "category": "mithai",
+    "subcategory": null,
+    "description": "Classic suji halwa, rich and aromatic.",
+    "shortDescription": "Fresh suji halwa, baked daily.",
+    "images": [
+      "images/products/gajar-halwa.jpg"
+    ],
+    "price": 450,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "mithai",
+      "halwa",
+      "suji",
+      "traditional",
+      "eid"
+    ],
+    "variants": [
+      {
+        "variantType": "Weight",
+        "options": [
+          {
+            "label": "250 g",
+            "priceModifier": -150,
+            "stock": null
+          },
+          {
+            "label": "500 g",
+            "priceModifier": 0,
+            "stock": null
+          },
+          {
+            "label": "1 kg",
+            "priceModifier": 650,
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "assorted-mithai-box",
+    "name": "Assorted Mithai Box",
+    "slug": "assorted-mithai-box",
+    "category": "mithai",
+    "subcategory": null,
+    "description": "A beautifully packed box of assorted mithai.",
+    "shortDescription": "Fresh assorted mithai box, baked daily.",
+    "images": [
+      "images/products/assorted-mithai-box.jpg"
+    ],
+    "price": 1500,
+    "compareAtPrice": 1800,
+    "discount": 16,
+    "currency": "PKR",
+    "popular": false,
+    "featured": true,
+    "new": false,
+    "available": true,
+    "tags": [
+      "mithai",
+      "box",
+      "gift",
+      "eid"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "candles",
+    "name": "Birthday Candles",
+    "slug": "candles",
+    "category": "extras",
+    "subcategory": null,
+    "description": "Colourful birthday candles.",
+    "shortDescription": "Fresh birthday candles, baked daily.",
+    "images": [
+      "images/products/candles.jpg"
+    ],
+    "price": 100,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "extras",
+      "candles"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "cake-knife",
+    "name": "Cake Knife",
+    "slug": "cake-knife",
+    "category": "extras",
+    "subcategory": null,
+    "description": "A stainless steel cake knife and server set.",
+    "shortDescription": "Fresh cake knife, baked daily.",
+    "images": [
+      "images/products/cake-knife.jpg"
+    ],
+    "price": 300,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "extras",
+      "knife"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "cake-toppers",
+    "name": "Cake Toppers",
+    "slug": "cake-toppers",
+    "category": "extras",
+    "subcategory": null,
+    "description": "Decorative cake toppers for any occasion.",
+    "shortDescription": "Fresh cake toppers, baked daily.",
+    "images": [
+      "images/products/cake-knife.jpg"
+    ],
+    "price": 400,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "extras",
+      "topper",
+      "birthday"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "greeting-card",
+    "name": "Greeting Card",
+    "slug": "greeting-card",
+    "category": "extras",
+    "subcategory": null,
+    "description": "A greeting card to complete your gift.",
+    "shortDescription": "Fresh greeting card, baked daily.",
+    "images": [
+      "images/products/candles.jpg"
+    ],
+    "price": 150,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "extras",
+      "card"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  },
+  {
+    "id": "chocolates",
+    "name": "Assorted Chocolates",
+    "slug": "chocolates",
+    "category": "extras",
+    "subcategory": null,
+    "description": "A box of premium assorted chocolates.",
+    "shortDescription": "Fresh assorted chocolates, baked daily.",
+    "images": [
+      "images/products/candles.jpg"
+    ],
+    "price": 700,
+    "compareAtPrice": null,
+    "discount": null,
+    "currency": "PKR",
+    "popular": false,
+    "featured": false,
+    "new": false,
+    "available": true,
+    "tags": [
+      "extras",
+      "chocolate",
+      "gift"
+    ],
+    "variants": [],
+    "addons": [],
+    "rating": null,
+    "reviewCount": 0
+  }
+]
