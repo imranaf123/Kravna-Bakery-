@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Shop — Kravna Bakery | Cakes, Pastries, Breads, Mithai &amp; More</title>
+  <meta name="description" content="Browse the full Kravna Bakery range — cakes, custom cakes, pastries, cookies, breads, rusks, savory, nimco, mithai and celebration extras.">
+  <meta name="theme-color" content="#190f0b">
+  <link rel="icon" href="images/logo/kravna-favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shop — Kravna Bakery">
+  <meta property="og:description" content="Fresh cakes, pastries, breads, rusks, savory treats, nimco and mithai.">
+  <meta property="og:image" content="images/banners/hero-3.jpg">
+</head>
+<body data-page="shop">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="site-header"></div>
+
+  <main id="main">
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Kravna Bakery</span>
+        <h1 id="shop-title">Shop</h1>
+        <p>Freshly baked every day — order for delivery or pickup.</p>
+      </div>
+    </section>
+
+    <section class="container shop-layout">
+      <aside class="shop-side" id="shop-side" aria-label="Filters"></aside>
+      <div class="shop-main">
+        <div class="shop-toolbar">
+          <span class="result-count" id="shop-count"></span>
+          <div class="toolbar-right">
+            <select class="sort-select" id="shop-sort" aria-label="Sort products">
+              <option value="featured">Sort: Featured</option>
+              <option value="price-low">Price: Low to High</option>
+              <option value="price-high">Price: High to Low</option>
+              <option value="name">Name: A–Z</option>
+              <option value="newest">Newest</option>
+            </select>
+            <button class="btn btn--outline btn--sm filter-toggle" id="filter-toggle" aria-expanded="false">Filters</button>
+          </div>
+        </div>
+        <div class="chips-row" id="active-chips"></div>
+        <div class="shop-grid" id="shop-grid"></div>
+        <div class="load-more"><button class="btn btn--dark" id="load-more" style="display:none">Load more</button></div>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+  <div id="bottom-nav"></div>
+  <noscript><p style="padding:16px;text-align:center">Please enable JavaScript to browse Kravna Bakery.</p></noscript>
+  <script src="app.js"></script>
+</body>
+</html>
