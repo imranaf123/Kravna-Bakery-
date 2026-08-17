@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /cart.html
+Disallow: /checkout.html
+
+Sitemap: https://kravna-bakery.vercel.app/sitemap.xml
